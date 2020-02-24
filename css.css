@@ -1,0 +1,13 @@
+.container {
+justify-content: center;
+margin-top: 50px;
+margin-left: 50px;
+}
+
+input {
+	margin-top: 10px;
+}
+
+.Submit {
+	margin-top: 20px;
+}
